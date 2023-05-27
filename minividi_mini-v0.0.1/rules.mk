@@ -1,0 +1,3 @@
+MIDI_ENABLE = yes
+EXTRAFLAGS += -flto
+OLED_ENABLE = yes
